@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, willkommen auf meinem GitHub-Profil👋
 
 <!--
 **d-what/d-what** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
