@@ -45,7 +45,11 @@ gifs und bilder
 
 **Highlights:**
 
+**Hinweis:** *Visuelles Portfolio mit Screenshots, GIFs und Konzept-Dokumentation.*
+
+
 <!--
+Konzept-Dokumentation überlgen ... also das was im unterricht verlangt wurde...
 **Kernfunktionen:**
 
 **Was habe ich gelernt?:** Animation, Partikeleffekt, AR
