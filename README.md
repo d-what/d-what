@@ -9,6 +9,12 @@ Thema der Arbeit: Die Wahrnehmung der Probanden anhand deren Hobbys vergleichen.
 
 **Engine & Sprache:** Unity, C#
 
+**Highlights:** Multi-Kamera-System, Data-Logging (.txt) & Dynamische Anomalien
+
+<!--
+das kommt im projekt readme
+gifs und bilder
+ 
 **Kernfunktionen:**
 * **Anomalien-System:** Dynamisches Ändern von Objekt-Eigenschaften zur Laufzeit (Position, Skalierung, Material/Farbe, Ersetzen, Verschwinden, Neues Objekt)
 * **Data-Logging:** Eigenes C#-Logging-System zur Aufzeichnung von Spieleraktionen, Reaktionszeiten und Richtig oder Falsch erkennung der Anomalien in Textdateien (`.txt`) für die spätere Auswertung.
@@ -16,25 +22,34 @@ Thema der Arbeit: Die Wahrnehmung der Probanden anhand deren Hobbys vergleichen.
   
 **Was habe ich gelernt?:** Dateiverarbeitung, UI-Event-Handling
 
+***Refactoring?:**
+-->
 
 
 ### 2. Fingeralphabet 3D in Houdini (Forschungsmodul)
 >**Kurze Beschreibung:**
 
-**Engine & Sprache:** Unity, C#
+**Engine & Sprache:** Houdini, Nodes & VEX-Code
 
+**Highlights:** Animation, Eingabefeld, 
+<!--
 **Kernfunktionen:**
 
 **Was habe ich gelernt?:**
+-->
 
 ### 3. AR-Anwendung (hier kein link aber zwei bilder bzw. demo gifs)
 >**Kurze Beschreibung:**
 
 **Engine & Sprache:** Unity, C#
 
+**Highlights:**
+
+<!--
 **Kernfunktionen:**
 
 **Was habe ich gelernt?:** Animation, Partikeleffekt, AR
+-->
 
 <!--
 **d-what/d-what** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
