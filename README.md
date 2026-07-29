@@ -27,7 +27,7 @@ Thema der Arbeit: Die Wahrnehmung der Probanden anhand deren Hobbys vergleichen.
 
 **Was habe ich gelernt?:**
 
-### 3. AR-Anwendung 
+### 3. AR-Anwendung (hier kein link aber zwei bilder bzw. demo gifs)
 >**Kurze Beschreibung:**
 
 **Engine & Sprache:** Unity, C#
