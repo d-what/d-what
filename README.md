@@ -1,5 +1,5 @@
 ## Hi, willkommen auf meinem GitHub-Profil👋
-Hier ist eine Übersicht meiner Projekte, die hauptsähclich Unity und C# sind.
+Hier ist eine Übersicht meiner Projekte, die hauptsächlich in Unity und C# entwickelt wurden.
 
 ### Meine Projekte
 ### 1. 3D Anomalie-Erkennungsspiel (Masterarbeit) (hier kommt der link rein)
