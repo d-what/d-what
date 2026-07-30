@@ -2,14 +2,16 @@
 Hier ist eine Übersicht meiner Projekte, die hauptsächlich in Unity und C# entwickelt wurden.
 
 ### Meine Projekte
-### 1. 3D Anomalie-Erkennungsspiel (Masterarbeit) (hier kommt der link rein)
+### 1. 3D Anomalie-Erkennungsspiel (Masterarbeit) (hier kommt der link rein oder direkt drunter mal schauen.)
+<!--
 >**Kurze Beschreibung:** << eventuell das weg und einfach kurz beschreiben
-Ein 3D-Spiel, dass an *I'm on Observation Duty* (verlinkung) orientiert ist. Spieler müssen zufällige Veränderungen in 5 Räumen identifizieren.
+-->
+>Ein 3D-Spiel, dass an *I'm on Observation Duty* (verlinkung) orientiert ist. Spieler müssen zufällige Veränderungen in 5 Räumen identifizieren.
 Thema der Arbeit: Die Wahrnehmung der Probanden anhand deren Hobbys vergleichen. Wer hat eine bessere Wahrnehmung? 
 
 **Engine & Sprache:** Unity, C#
 
-**Highlights:** Multi-Kamera-System, Data-Logging (.txt) & Dynamische Anomalien
+**Highlights:** Data-Logging (.txt), Dynamische Anomalien & Multi-Kamera-System
 
 <!--
 das kommt im projekt readme
