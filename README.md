@@ -1,13 +1,17 @@
+<div align="center">
+ 
 ## Hi, willkommen auf meinem GitHub-Profil👋
 Hier ist eine Übersicht meiner Projekte, die hauptsächlich in Unity und C# entwickelt wurden.
+....vl. noch was schreiben? oder hier meine skills auflisten?... sieht sonst bissl leer aus...
+</div>
 
-### Meine Projekte
-### 1. 3D Anomalie-Erkennungsspiel (Masterarbeit) (hier kommt der link rein oder direkt drunter mal schauen.)
+### **Meine Projekte:**
+ ### `1. 3D Anomalie-Erkennungsspiel (Masterarbeit)` (hier kommt der link rein oder direkt drunter mal schauen.) 
 <!--
 >**Kurze Beschreibung:** << eventuell das weg und einfach kurz beschreiben
 -->
->Ein 3D-Spiel, dass an *["I'm an Observation Duty"](https://store.steampowered.com/app/1257810/Im_on_Observation_Duty_2/)* orientiert ist. Spieler müssen zufällige Veränderungen in 5 Räumen identifizieren.
-Thema der Arbeit: Die Wahrnehmung der Probanden anhand deren Hobbys vergleichen. Wer hat eine bessere Wahrnehmung? 
+>Ein Detektionsspiel, das an *[I'm an Observation Duty](https://store.steampowered.com/app/1257810/Im_on_Observation_Duty_2/)* orientiert ist.
+Spieler müssen zufällige Veränderungen in 5 Räumen wahrnehmen und melden.  
 
 **Engine & Sprache:** Unity, C#
 
@@ -28,7 +32,7 @@ gifs und bilder
 -->
 
 
-### 2. Fingeralphabet 3D in Houdini (Forschungsmodul)
+### `2. Fingeralphabet 3D in Houdini (Forschungsmodul)`
 >**Kurze Beschreibung:**
 
 **Engine & Sprache:** Houdini, Nodes & VEX-Code
@@ -40,7 +44,7 @@ gifs und bilder
 **Was habe ich gelernt?:**
 -->
 
-### 3. AR-Anwendung (hier kein link aber zwei bilder bzw. demo gifs)
+### `3. AR-Anwendung (hier kein link aber zwei bilder bzw. demo gifs)`
 >**Kurze Beschreibung:**
 
 **Engine & Sprache:** Unity, C#
