@@ -6,7 +6,7 @@ Hier ist eine Übersicht meiner Projekte, die hauptsächlich in Unity und C# ent
 <!--
 >**Kurze Beschreibung:** << eventuell das weg und einfach kurz beschreiben
 -->
->Ein 3D-Spiel, dass an *I'm on Observation Duty* (verlinkung) orientiert ist. Spieler müssen zufällige Veränderungen in 5 Räumen identifizieren.
+>Ein 3D-Spiel, dass an *["I'm an Observation Duty"](https://store.steampowered.com/app/1257810/Im_on_Observation_Duty_2/)* orientiert ist. Spieler müssen zufällige Veränderungen in 5 Räumen identifizieren.
 Thema der Arbeit: Die Wahrnehmung der Probanden anhand deren Hobbys vergleichen. Wer hat eine bessere Wahrnehmung? 
 
 **Engine & Sprache:** Unity, C#
